@@ -6,3 +6,14 @@
 
 $nome = "HCODE";
 $idade = 40;
+
+echo "<br/>";
+echo $nome;
+echo "<br/>";
+echo "<br/>";
+echo $idade;
+echo "<br/>";
+
+//var_dump mostra o tipo da variavel e a mesma
+var_dump($nome);
+var_dump($idade);
