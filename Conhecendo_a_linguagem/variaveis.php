@@ -1,4 +1,5 @@
 <?php
+//Aula 01
 
 // A declaração das variaveis se inicia com o $ ;
 // Nao é necessário declarar o tipo da variavel em php, no caso ela 
@@ -14,6 +15,6 @@ echo "<br/>";
 echo $idade;
 echo "<br/>";
 
-//var_dump mostra o tipo da variavel e a mesma
+//var_dump mostra o tipo da variavel, algumas informações a mais e a mesma
 var_dump($nome);
 var_dump($idade);
